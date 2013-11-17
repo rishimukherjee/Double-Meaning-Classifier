@@ -7,7 +7,11 @@ This currently uses a Naive Bayes classifier (the SKLEARN implementation) as a
 Python package. This was inspired by the `twss
 <https://github.com/sengupta/twss>`_ and uses the same data corpus. 
 
-This is completely written from scratch using `SKLEARN` as I wanted to learn more about sklearn and naive bayes classifier. 
+Difference from Repo forked from
+--------------------------------
+
+1. Completely written from scratch using `SCIKIT-LEARN` as I wanted to learn more about sklearn and naive bayes classifier.
+2. This has a `cross_validate()` function which gives a score of 0.931 for now.
 
 Suggestions welcome. Do file bugs. Fork away. Send me pull requests. 
 
