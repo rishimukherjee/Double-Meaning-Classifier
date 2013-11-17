@@ -36,10 +36,10 @@ Once this is installed, you can take it out for a spin:
     In [3]: x.cross_validate()
     0.934612651031
 
-    In [10]: x("Dude has a hard one.")
+    In [10]: x("Boka has a hard one.")
     [ True]
 
-    In [12]: x("Dude is awesome.")
+    In [12]: x("Boka is awesome.")
     [False]
 
 The first call can take a while- the module needs to train the classifier
