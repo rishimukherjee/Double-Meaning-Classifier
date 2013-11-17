@@ -10,8 +10,8 @@ Python package. This was inspired by the `twss
 Difference from Repo forked from
 --------------------------------
 
-1. Completely written from scratch using `SCIKIT-LEARN` as I wanted to learn more about sklearn and naive bayes classifier.
-2. This has a `cross_validate()` function which gives a score of 0.931 for now.
+1. Completely written from scratch using `SCIKIT-LEARN as I wanted to learn more about sklearn and naive bayes classifier.
+2. This has a `cross_validate() function which gives a score of 0.931 for now.
 
 Suggestions welcome. Do file bugs. Fork away. Send me pull requests. 
 
