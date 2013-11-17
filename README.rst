@@ -52,7 +52,7 @@ You can supply your own training data using positive and negative corpus files:
 
 .. code-block:: python 
 
-    >>> twss = TWSS(positive_corpus_file=open('foo.txt'), negative_corpus_file=open('bar.txt'))
+    In [13]: x = TWSS(positive_corpus_file='foo.txt', negative_corpus_file='bar.txt')
 
 Roadmap
 -------
